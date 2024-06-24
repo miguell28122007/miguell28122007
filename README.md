@@ -1,4 +1,7 @@
-## Hi there 👋
+## Seja Bem vindo ao meu Perfil! 👋
+* se apresentar
+* sou o Miguell e estou cursando tecnologi,
+*  criando programação no p5js e no Scratch
 
 <!--
 **miguell28122007/miguell28122007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
